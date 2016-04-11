@@ -1,1 +1,1 @@
-# cs362sp16
+# cs362sp16_sedwickc
